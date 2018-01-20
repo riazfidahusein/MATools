@@ -1,6 +1,6 @@
 #' size xts to first commom start date
 #'
-#' @param x
+#' @param z
 #'
 #' @return
 #' @export

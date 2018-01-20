@@ -1,6 +1,6 @@
 #' push data to end of month
 #'
-#' @param x
+#' @param z
 #'
 #' @return
 #' @export

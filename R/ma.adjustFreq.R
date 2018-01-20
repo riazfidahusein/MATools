@@ -1,6 +1,6 @@
 #' adjust xts frequency - assumes a less frequent periodicity is required
 #'
-#' @param x
+#' @param z
 #'
 #' @return
 #' @export
