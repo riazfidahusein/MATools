@@ -12,4 +12,5 @@ ma.df2xts <- function(x){
   names(out) <- names(x[2:ncol(x)])
 
   return(out)
+  
 }
